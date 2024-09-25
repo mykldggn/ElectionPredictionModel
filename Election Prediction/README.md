@@ -1,4 +1,3 @@
-swag moeny :$
 
 # Election Prediction Project
 
