@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+pandas
+numpy
+scikit-learn
+joblib
+PyQt5
+folium
+pytest
+PyQtWebEngine
+selenium
+webdriver-manager
