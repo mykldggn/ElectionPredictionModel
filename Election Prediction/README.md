@@ -1,5 +1,3 @@
-swag moeny :$
-
 # Election Prediction Project
 
 This project predicts the outcome of the upcoming election using current polling data and historical trends.
